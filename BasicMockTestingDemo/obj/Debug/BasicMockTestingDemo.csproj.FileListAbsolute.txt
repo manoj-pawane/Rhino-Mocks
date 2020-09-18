@@ -1,0 +1,7 @@
+C:\Users\manoj\source\repos\BasicMockTestingDemo\BasicMockTestingDemo\obj\Debug\BasicMockTestingDemo.csprojAssemblyReference.cache
+C:\Users\manoj\source\repos\BasicMockTestingDemo\BasicMockTestingDemo\obj\Debug\BasicMockTestingDemo.csproj.CoreCompileInputs.cache
+C:\Users\manoj\source\repos\BasicMockTestingDemo\BasicMockTestingDemo\bin\Debug\BasicMockTestingDemo.exe.config
+C:\Users\manoj\source\repos\BasicMockTestingDemo\BasicMockTestingDemo\bin\Debug\BasicMockTestingDemo.exe
+C:\Users\manoj\source\repos\BasicMockTestingDemo\BasicMockTestingDemo\bin\Debug\BasicMockTestingDemo.pdb
+C:\Users\manoj\source\repos\BasicMockTestingDemo\BasicMockTestingDemo\obj\Debug\BasicMockTestingDemo.exe
+C:\Users\manoj\source\repos\BasicMockTestingDemo\BasicMockTestingDemo\obj\Debug\BasicMockTestingDemo.pdb
