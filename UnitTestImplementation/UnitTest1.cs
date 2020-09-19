@@ -7,6 +7,28 @@ namespace UnitTestImplementation
     [TestClass]
     public class UnitTest1
     {
+
+        /// <summary>
+        /// Stub example
+        /// </summary>
+        [TestMethod]
+        public void ProcessDataSource()
+        {
+            var mockDataSource = MockRepository.GenerateStub<IDataSource>();
+            mockDataSource.Stub(x => x.DataAvailable()).Return(true);
+            Controller target = new Controller();
+            target.DataSource = mockDataSource;
+
+            mockDataSource.Expect(x => x.DataAvailable()).Return(false);
+
+            target.Process();
+            mockDataSource.VerifyAllExpectations();
+        }
+
+        
+
+
+
         [TestMethod()]
         public void ProcessTest_DataAvailableReturnsFalse()
         {
